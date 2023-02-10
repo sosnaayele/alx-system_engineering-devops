@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p wecome/to/school
+makdir -p wecome/to/holberton
