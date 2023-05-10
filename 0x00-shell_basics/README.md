@@ -5,3 +5,5 @@ Task 3 - Display current directory contents in a long format
 Task 4 - Display current direcotry contents, including hidden files
 Task 5 - Display current directory contents, long gormat with user and group ID
 Task 6 - Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+Task 7 - Moves file from one direcotry to another
+Task 8 - Delete file from a specific direcotry
