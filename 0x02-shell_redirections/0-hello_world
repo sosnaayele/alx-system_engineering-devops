@@ -1,2 +1,2 @@
 #!/bin/bash
-"Hello, World" ls > new.txt 
+echo "Hello, World"
